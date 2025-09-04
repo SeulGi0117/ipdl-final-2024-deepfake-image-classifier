@@ -70,13 +70,11 @@ c.jpg 1
 - **Private Accuracy**: 0.96555  
 ---
 
-## Files
-- `기말프로젝트_코드_20217137_강슬기.ipynb`: 주요 코드
-- `기말프로젝트_보고서_20217137_강슬기.pdf`: 프로젝트 보고서
+## 문서 자료
+
+- [기말 프로젝트 보고서 PDF](./docs/기말프로젝트_보고서_20217137_강슬기.pdf)
+- [기말 프로젝트 코드 (Jupyter Notebook)](./docs/기말프로젝트_코드_20217137_강슬기.ipynb)
+
 - 제출 및 데이터셋 관련 파일은 Kaggle 대회 페이지 참고:  
   [Kaggle Competition - IPDL 2024](https://www.kaggle.com/competitions/ipdl-2024/overview)
-
 ---
-
-## License
-본 프로젝트는 학습 목적으로 진행되었으며, 사용된 데이터와 모델은 Kaggle 대회 규정을 따릅니다.
